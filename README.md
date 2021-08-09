@@ -14,5 +14,5 @@ These are the slides and the code examples for our [Berlin.JS](https://berlinjs.
 
 ## Authors
 
-- Benny Neugebauer ([Twitter](https://twitter.com/bennycode), [GitHub](https://github.com/bennyn))
+- Benny Neugebauer ([Twitter](https://twitter.com/bennycode), [GitHub](https://github.com/bennycode))
 - Florian Keller ([GitHub](https://github.com/ffflorian))
